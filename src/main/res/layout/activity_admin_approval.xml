@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <android.support.v7.widget.Toolbar
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:id="@+id/toolbar"
+            android:background="@color/text_color"
+            app:popupTheme="@style/AppTheme.PopupOverlay">
+
+        </android.support.v7.widget.Toolbar>
+
+    </android.support.design.widget.AppBarLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/relative_lay2"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/thanks"
+            android:layout_centerHorizontal="true"
+            android:textStyle="bold"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            android:textColor="@color/black"
+            android:layout_marginTop="@dimen/padding_medium"
+            android:text="@string/thanks"
+            android:gravity="center"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_below="@id/thanks"
+            android:id="@+id/your_request"
+            android:textStyle="normal"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            android:textColor="@color/grey"
+            android:layout_marginTop="@dimen/padding_medium"
+            android:text="@string/your_request"
+            android:gravity="center"/>
+
+
+
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/relative_lay2.0"
+        android:visibility="gone"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/thanks2.0"
+            android:layout_centerHorizontal="true"
+            android:textStyle="bold"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            android:textColor="@color/black"
+            android:layout_marginTop="@dimen/padding_medium"
+            android:text="@string/thanks"
+            android:gravity="center"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_below="@id/thanks2.0"
+            android:id="@+id/your_request2.0"
+            android:textStyle="normal"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            android:textColor="@color/grey"
+            android:layout_marginTop="@dimen/padding_medium"
+            android:text="@string/your_request"
+            android:gravity="center"/>
+
+
+
+    </RelativeLayout>
+
+
+
+</LinearLayout>

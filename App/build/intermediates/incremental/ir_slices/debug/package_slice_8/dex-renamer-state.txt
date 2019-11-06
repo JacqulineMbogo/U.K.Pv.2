@@ -1,0 +1,4 @@
+#Tue Jun 04 19:45:01 EAT 2019
+base.0=C\:\\Users\\jacquline.mbogo\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\Projects\\U.K.Pv.2\\App\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\77
+path.0=classes.dex
+renamed.0=classes.dex

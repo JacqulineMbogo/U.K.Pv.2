@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Jul 17 15:46:31 EAT 2019
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\jacquline.mbogo\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\Projects\\U.K.Pv.2\\App\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\85
+0.path=classes.dex
+0.set=DEX
+count=1

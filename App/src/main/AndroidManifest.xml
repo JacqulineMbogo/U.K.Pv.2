@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.jacquey.ukullimapoultry">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <application
+        android:name=".MyApp"
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/logo"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <activity android:name=".SplashScreen.SplashActivity">
+
+            android:label="@string/app_name">
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            android:windowSoftInputMode="stateVisible|adjustResize"
+        </activity>
+        <activity android:name=".LogIn.SignUpActivity"/>
+
+        <activity android:name=".LogIn.SignInActivity"/>
+        <activity android:name=".LogIn.admin_approval"/>
+
+        <activity android:name=".MainActivity"/>
+
+        <activity android:name=".LogIn.NewPassword"/>
+
+        <activity android:name=".cart.CartDetails"/>
+        <activity android:name=".admin.delivery_home"/>
+        <activity android:name=".admin.DeliveryHistory_ViewDetails"/>
+
+
+        <activity android:name=".cart.payment"/>
+        <activity android:name=".cart.payment2"/>
+        <activity android:name=".cart.Order_Summary"/>
+        <activity android:name=".Home.category"/>
+        <activity android:name=".Home.About"/>
+        <activity android:name=".Home.FAQs"/>
+        <activity android:name=".Home.feedback"/>
+
+        <activity android:name=".cart.OrderAddress"/>
+
+        <activity android:name=".cart.OrderAddress_AddNew"/>
+
+        <activity android:name=".cart.PlaceOrderActivity"/>
+
+        <activity android:name=".myaccount.myaccount"/>
+        <activity android:name=".myaccount.FeedbackHistory"/>
+        <activity android:name=".productpreview.ProductDetails"/>
+
+        <activity android:name=".cart.checkout"/>
+
+        <activity android:name=".myaccount.OrderHistory"/>
+        <activity android:name=".myaccount.generate_receipts"/>
+
+        <activity android:name=".myaccount.OrderHistory_ViewDetails"/>
+
+
+    </application>
+
+</manifest>

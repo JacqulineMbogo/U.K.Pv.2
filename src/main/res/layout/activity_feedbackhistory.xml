@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <android.support.v7.widget.Toolbar
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:id="@+id/toolbar"
+            android:background="@color/text_color"
+            app:popupTheme="@style/AppTheme.PopupOverlay">
+
+        </android.support.v7.widget.Toolbar>
+
+    </android.support.design.widget.AppBarLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="60dp"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+
+        <android.support.v7.widget.RecyclerView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/recycler_orderhistory"
+            android:layout_below="@id/cart_count"
+            >
+
+        </android.support.v7.widget.RecyclerView>
+
+
+    </RelativeLayout>
+
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/layout_2"
+        android:padding="@dimen/padding_medium"
+        android:layout_alignParentBottom="true">
+
+
+
+        <TextView
+            android:id="@+id/newfeedback"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:layout_alignParentEnd="true"
+            android:background="@drawable/rounder_small_green"
+            android:drawableEnd="@mipmap/ic_add_new_plus"
+
+            android:gravity="center_horizontal"
+            android:text="New feedback"
+            android:textColor="@color/white" />
+
+
+
+
+
+    </RelativeLayout>
+
+
+</RelativeLayout>
+

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/drawer_layout"
+    android:fitsSystemWindows="true"
+    tools:openDrawer="start">
+
+    <android.support.design.widget.CoordinatorLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+
+        <android.support.design.widget.AppBarLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:theme="@style/AppTheme.AppBarOverlay">
+
+            <android.support.v7.widget.Toolbar
+                android:layout_width="match_parent"
+                android:layout_height="?attr/actionBarSize"
+                android:id="@+id/toolbar"
+                android:background="@color/text_color"
+                app:popupTheme="@style/AppTheme.PopupOverlay">
+
+            </android.support.v7.widget.Toolbar>
+
+        </android.support.design.widget.AppBarLayout>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/header"
+            android:textSize="@dimen/text_extra_large"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+
+            android:text="@string/select"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="@dimen/padding_extralarge"/>
+
+        <ImageView
+            android:layout_width="250dp"
+            android:layout_height="160dp"
+            android:id="@+id/cod"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/cod"
+            android:layout_below="@id/header"
+            android:layout_marginTop="@dimen/padding_extralarge" />
+
+        <ImageView
+            android:layout_width="250dp"
+            android:layout_height="160dp"
+            android:id="@+id/mpesa"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/mpesa"
+            android:layout_below="@id/cod"
+            android:layout_marginTop="@dimen/padding_extralarge" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/mpesabutton"
+            android:text="@string/lipanampesa"
+            android:gravity="center_horizontal"
+            android:background="@drawable/rounded_green"
+            android:textColor="@color/white"
+            android:layout_marginRight="@dimen/padding_too_large"
+            android:layout_marginLeft="@dimen/padding_too_large"
+            android:layout_marginTop="@dimen/padding_extralarge"
+            android:layout_marginBottom="@dimen/padding_too_large"
+            android:layout_alignParentBottom="true"/>
+
+
+
+    </RelativeLayout>
+
+
+</ScrollView>
+    </android.support.design.widget.CoordinatorLayout>
+
+    <android.support.design.widget.NavigationView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:id="@+id/nav_view"
+        android:visibility="visible"
+        android:layout_gravity ="start"
+        android:fitsSystemWindows="true"
+        app:headerLayout="@layout/nav_header_main"
+        app:menu="@menu/navi_home_menu">
+
+
+
+
+    </android.support.design.widget.NavigationView>
+
+
+
+</android.support.v4.widget.DrawerLayout>

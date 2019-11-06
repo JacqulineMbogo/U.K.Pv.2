@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/skip"
+            android:clickable="true"
+            android:background="@color/white"
+            android:textColor="@color/white"
+            android:id="@+id/btnskip"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="@dimen/padding_normal"
+            android:layout_marginTop="@dimen/padding_normal"
+            />
+        <ImageView
+            android:layout_width="250dp"
+            android:layout_height="150dp"
+            android:id="@+id/logo_image"
+            android:layout_centerHorizontal="true"
+            android:layout_below="@id/btnskip"
+            android:src="@drawable/logo"
+            android:layout_marginTop="@dimen/padding_too_large"/>
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/f_name"
+            android:paddingLeft="@dimen/padding_small"
+            android:paddingTop="@dimen/padding_small"
+            android:layout_below="@+id/logo_image"
+            android:layout_marginLeft="@dimen/padding_too_large"
+            android:layout_marginRight="@dimen/padding_too_large"
+            android:layout_marginTop="@dimen/padding_too_large"
+            android:hint="First Name"/>
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/l_name"
+            android:paddingLeft="@dimen/padding_small"
+            android:paddingTop="@dimen/padding_small"
+            android:layout_below="@+id/f_name"
+            android:layout_marginLeft="@dimen/padding_too_large"
+            android:layout_marginRight="@dimen/padding_too_large"
+            android:layout_marginTop="@dimen/padding_too_large"
+            android:hint="Last Name"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/fullname"
+            android:paddingLeft="@dimen/padding_small"
+            android:paddingTop="@dimen/padding_small"
+            android:layout_below="@+id/l_name"
+            android:layout_marginLeft="@dimen/padding_too_large"
+            android:layout_marginRight="@dimen/padding_too_large"
+            android:layout_marginTop="@dimen/padding_too_large"
+            android:hint="@string/full_name"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/username"
+            android:paddingLeft="@dimen/padding_small"
+            android:paddingTop="@dimen/padding_small"
+            android:layout_below="@+id/fullname"
+            android:inputType="textEmailAddress"
+            android:layout_marginLeft="@dimen/padding_too_large"
+            android:layout_marginRight="@dimen/padding_too_large"
+            android:layout_marginTop="@dimen/padding_extralarge"
+            android:hint="@string/email"/>
+
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/phone_number"
+            android:inputType="phone"
+            android:paddingLeft="@dimen/padding_small"
+            android:paddingTop="@dimen/padding_small"
+            android:layout_below="@+id/username"
+            android:layout_marginLeft="@dimen/padding_too_large"
+            android:layout_marginRight="@dimen/padding_too_large"
+            android:layout_marginTop="@dimen/padding_extralarge"
+            android:hint="@string/phone_no"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/password"
+            android:paddingLeft="@dimen/padding_small"
+            android:inputType="textPassword"
+            android:paddingTop="@dimen/padding_small"
+            android:layout_below="@+id/phone_number"
+            android:layout_marginLeft="@dimen/padding_too_large"
+            android:layout_marginRight="@dimen/padding_too_large"
+
+            android:layout_marginTop="@dimen/padding_extralarge"
+            android:hint="@string/password"/>
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/retype_password"
+            android:paddingLeft="@dimen/padding_small"
+            android:inputType="textPassword"
+            android:paddingTop="@dimen/padding_small"
+            android:layout_below="@+id/password"
+            android:layout_marginLeft="@dimen/padding_too_large"
+            android:layout_marginRight="@dimen/padding_too_large"
+            android:layout_marginTop="@dimen/padding_extralarge"
+            android:hint="@string/retype_password"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/create_account"
+            android:clickable="true"
+            android:layout_below="@id/retype_password"
+            android:id="@+id/create_account"
+            android:gravity="center_horizontal"
+            android:background="@color/text_color"
+            android:textColor="@color/white"
+            android:layout_marginLeft="@dimen/padding_too_large"
+            android:layout_marginRight="@dimen/padding_too_large"
+            android:layout_marginTop="@dimen/padding_too_large"/>
+
+
+        <TextView
+
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:clickable="false"
+            android:textColor="@color/black"
+            android:id="@+id/already"
+            android:text="@string/already"
+            android:layout_marginTop="@dimen/padding_large"
+            android:layout_below="@id/create_account"
+            android:layout_marginLeft="@dimen/padding_too_large"/>
+
+
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:text="@string/sign_in"
+            android:clickable="true"
+            android:id="@+id/sign_in"
+            android:layout_toRightOf="@id/already"
+            android:layout_marginLeft="@dimen/padding_medium"
+            android:textColor="@color/text_color" />
+
+
+
+
+
+    </RelativeLayout>
+
+</ScrollView>

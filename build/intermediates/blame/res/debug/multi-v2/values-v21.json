@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\jacquline.mbogo\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\Projects\\U.K.Pv.2\\App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\jacquline.mbogo\\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\\Projects\\U.K.Pv.2\\App\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "19",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "246"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "278"
+                    }
+                }
+            ]
+        }
+    ]
+}

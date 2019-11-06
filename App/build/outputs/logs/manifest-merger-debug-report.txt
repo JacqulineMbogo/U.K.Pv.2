@@ -1,0 +1,179 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:2:1-70:12
+INJECTED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:2:1-70:12
+INJECTED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:2:1-70:12
+INJECTED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:2:1-70:12
+INJECTED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:2:1-70:12
+INJECTED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:2:1-70:12
+INJECTED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:2:1-70:12
+	package
+		ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:3:5-50
+		INJECTED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:2:1-70:12
+		INJECTED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:2:1-70:12
+		INJECTED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:7:22-78
+application
+ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:8:5-68:19
+	android:supportsRtl
+		ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:13:9-43
+	android:icon
+		ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:11:9-38
+	android:allowBackup
+		ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:15:9-40
+	android:name
+		ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:9:9-30
+activity#com.example.jacquey.ukullimapoultry.SplashScreen.SplashActivity
+ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:17:9-27:20
+	android:name
+		ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:17:19-62
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:24:27-74
+activity#com.example.jacquey.ukullimapoultry.LogIn.SignUpActivity
+ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:28:9-57
+	android:name
+		ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:28:19-55
+activity#com.example.jacquey.ukullimapoultry.LogIn.SignInActivity
+ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:30:9-57
+	android:name
+		ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:30:19-55
+activity#com.example.jacquey.ukullimapoultry.LogIn.admin_approval
+ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:31:9-57
+	android:name
+		ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:31:19-55
+activity#com.example.jacquey.ukullimapoultry.MainActivity
+ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:33:9-49
+	android:name
+		ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:33:19-47
+activity#com.example.jacquey.ukullimapoultry.LogIn.NewPassword
+ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:35:9-54
+	android:name
+		ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:35:19-52
+activity#com.example.jacquey.ukullimapoultry.cart.CartDetails
+ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:37:9-53
+	android:name
+		ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:37:19-51
+activity#com.example.jacquey.ukullimapoultry.admin.delivery_home
+ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:38:9-56
+	android:name
+		ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:38:19-54
+activity#com.example.jacquey.ukullimapoultry.admin.DeliveryHistory_ViewDetails
+ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:39:9-70
+	android:name
+		ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:39:19-68
+activity#com.example.jacquey.ukullimapoultry.cart.payment
+ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:42:9-49
+	android:name
+		ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:42:19-47
+activity#com.example.jacquey.ukullimapoultry.cart.payment2
+ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:43:9-50
+	android:name
+		ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:43:19-48
+activity#com.example.jacquey.ukullimapoultry.cart.Order_Summary
+ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:44:9-55
+	android:name
+		ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:44:19-53
+activity#com.example.jacquey.ukullimapoultry.Home.category
+ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:45:9-50
+	android:name
+		ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:45:19-48
+activity#com.example.jacquey.ukullimapoultry.Home.About
+ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:46:9-47
+	android:name
+		ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:46:19-45
+activity#com.example.jacquey.ukullimapoultry.Home.FAQs
+ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:47:9-46
+	android:name
+		ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:47:19-44
+activity#com.example.jacquey.ukullimapoultry.Home.feedback
+ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:48:9-50
+	android:name
+		ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:48:19-48
+activity#com.example.jacquey.ukullimapoultry.cart.OrderAddress
+ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:50:9-54
+	android:name
+		ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:50:19-52
+activity#com.example.jacquey.ukullimapoultry.cart.OrderAddress_AddNew
+ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:52:9-61
+	android:name
+		ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:52:19-59
+activity#com.example.jacquey.ukullimapoultry.cart.PlaceOrderActivity
+ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:54:9-60
+	android:name
+		ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:54:19-58
+activity#com.example.jacquey.ukullimapoultry.myaccount.myaccount
+ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:56:9-56
+	android:name
+		ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:56:19-54
+activity#com.example.jacquey.ukullimapoultry.myaccount.FeedbackHistory
+ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:57:9-62
+	android:name
+		ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:57:19-60
+activity#com.example.jacquey.ukullimapoultry.productpreview.ProductDetails
+ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:58:9-66
+	android:name
+		ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:58:19-64
+activity#com.example.jacquey.ukullimapoultry.cart.checkout
+ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:60:9-50
+	android:name
+		ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:60:19-48
+activity#com.example.jacquey.ukullimapoultry.myaccount.OrderHistory
+ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:62:9-59
+	android:name
+		ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:62:19-57
+activity#com.example.jacquey.ukullimapoultry.myaccount.generate_receipts
+ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:63:9-64
+	android:name
+		ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:63:19-62
+activity#com.example.jacquey.ukullimapoultry.myaccount.OrderHistory_ViewDetails
+ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:65:9-71
+	android:name
+		ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml:65:19-69
+uses-sdk
+INJECTED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jacquline.mbogo\OneDrive - IMPAX BUSINESS SOLUTIONS LTD\Projects\U.K.Pv.2\App\app\src\main\AndroidManifest.xml
